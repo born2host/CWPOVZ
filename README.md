@@ -21,6 +21,6 @@ User
 - ...
 
 
-I saw that there are a lot of scripts like this, for example Proxmox, SolusVMExtendedVPS, ... but they are all payed. 
+I saw that there are a lot of scripts like this, for example Proxmox, SolusVMExtendedVPS, ... but they are all payed or you have to download an ISO file and install it on a bare metal which is not cool. 
 Here I`ll try to make a good script with a bash installer for CWP which will be FREE.
 Any help will be welcomed.
