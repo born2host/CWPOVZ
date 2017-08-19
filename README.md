@@ -1,26 +1,23 @@
-# OpenVZ with CentOS Web Panel
-OpenVZ for CentOS Web Panel
+# CWPOVZ or CentOS Web Panel with OpenVZ integration
 This is a project for CentOS Web Panel(CWP) to support OpenVZ.
 TODO:
 Admin
-- Install OpenVZ through CWP
-- Add IPv4 Pool
-- Add IPv6 Pool
-- Download Templates
-- Create Container
+- Install OpenVZ through CWP (skipped - will be done through the installer of the module)
+- Add IPv4 Pool (done 100%)
+- Add IPv6 Pool (skipped)
+- Download Templates (skipped - made downloader.sh in /vz/template/cache)
+- Create Container (done 100%)
+- Edit Container (done 100%)
+- Stop/Start Container (done 100%)
+- Suspend/Unsuspend Container + CWP User (done 100%)
 - ...
 User
-- Choose and install OS on container
-- Reinstall container
-- Boot container
-- Reboot container
-- Halt(Stop) container
-- SSH Console through CWP to the container
-- Change hostname
-- Change root password
+- Choose and install OS on container (done 50%)
+- Reinstall container ( done 50%)
+- Boot container (done 100%)
+- Reboot container (done 100%)
+- Halt(Stop) container (done 100%)
+- SSH Console through CWP to the container (done 0%)
+- Change hostname (done 100%)
+- Change root password (done 100%)
 - ...
-
-
-I saw that there are a lot of scripts like this, for example Proxmox, SolusVMExtendedVPS, ... but they are all payed or you have to download an ISO file and install it on a bare metal which is not cool. 
-Here I`ll try to make a good script with a bash installer for CWP which will be FREE.
-Any help will be welcomed.
