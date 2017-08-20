@@ -14,8 +14,7 @@ Admin
 - Suspend/Unsuspend Container + CWP User (done 100%)
 - ...
 User
-- Choose and install OS on container (done 50%)
-- Reinstall container ( done 50%)
+- Reinstall container with chosen OS ( done 50%)
 - Boot container (done 100%)
 - Reboot container (done 100%)
 - Halt(Stop) container (done 100%)
@@ -23,3 +22,6 @@ User
 - Change hostname (done 100%)
 - Change root password (done 100%)
 - ...
+
+
+You can see the progress on this video: https://www.youtube.com/watch?v=L_f2E5uJvqE
